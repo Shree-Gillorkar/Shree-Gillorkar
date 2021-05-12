@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shree-Gillorkar.
 - 👀 I’m interested in Coding.
 - 📚 I'm currently pursuing B.Tech degree in Bajaj Institude of Technology, wardha.
-- 🌱 I’m currently learning programming languages C, C++, Python & Java.
+- 🌱 I’m skilled in C, C++, Python & Java.
 - 💞️ I’m looking to collaborate on projects which will enhance my skills.
 - 📫 Contact - shreegillorkar02@gmail.com
 
