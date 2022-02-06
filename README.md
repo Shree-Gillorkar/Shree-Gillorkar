@@ -2,8 +2,6 @@
 <h3 align="center">I’m looking to collaborate on projects which will enhance my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c75aec5ef73a7d164e629e7032584f4f/tumblr_pgny3sxpVZ1v05rsfo1_500.gifv">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-gillorkar&label=Profile%20views&color=0e75b6&style=flat" alt="shree-gillorkar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I'm currently pursuing **I'm currently pursuing a B.Tech degree at Bajaj Institute of Technology, Wardha.**
